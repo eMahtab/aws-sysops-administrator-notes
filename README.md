@@ -10,3 +10,6 @@ https://docs.google.com/document/d/1q9DHR14jukPThqGuTRJh97R6KH_eFpMvDIKg2V1yh_M/
 
 # Monitoring Amazon RDS
 https://docs.google.com/document/d/1hzrEXC07qAIJYTKt_iJIHjLIzhOsTQikqTlmD_uxzi8/edit?usp=sharing
+
+# Monitoring ElastiCache
+https://docs.google.com/document/d/1cPPY7lzICCLiVwLHFirv1A6knjUKq9AUWb9_6DV1KfU/edit?usp=sharing
