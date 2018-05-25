@@ -13,3 +13,6 @@ https://docs.google.com/document/d/1hzrEXC07qAIJYTKt_iJIHjLIzhOsTQikqTlmD_uxzi8/
 
 # Monitoring ElastiCache
 https://docs.google.com/document/d/1cPPY7lzICCLiVwLHFirv1A6knjUKq9AUWb9_6DV1KfU/edit?usp=sharing
+
+# Classic Load Balancer Metrics
+https://docs.google.com/document/d/1OC0rCaalVjI18v8SG_xtXKpiLKwqYDXNFYK7Ifc9DE8/edit?usp=sharing
