@@ -16,3 +16,6 @@ https://docs.google.com/document/d/1cPPY7lzICCLiVwLHFirv1A6knjUKq9AUWb9_6DV1KfU/
 
 # Classic Load Balancer Metrics
 https://docs.google.com/document/d/1OC0rCaalVjI18v8SG_xtXKpiLKwqYDXNFYK7Ifc9DE8/edit?usp=sharing
+
+# Reading data from DynamoDB
+https://docs.google.com/document/d/13coKYDngjxVBc-FGaDtyRElw5XgpcwbUpE5F1NEfOYU/edit?usp=sharing
