@@ -19,3 +19,6 @@ https://docs.google.com/document/d/1OC0rCaalVjI18v8SG_xtXKpiLKwqYDXNFYK7Ifc9DE8/
 
 # Reading data from DynamoDB
 https://docs.google.com/document/d/13coKYDngjxVBc-FGaDtyRElw5XgpcwbUpE5F1NEfOYU/edit?usp=sharing
+
+# Amazon DynamoDB Local Secondary Index
+https://docs.google.com/document/d/1wun7gmfsHBMyd6KycCephakeW2a3zZ1JH7B06IEV2as/edit?usp=sharing
