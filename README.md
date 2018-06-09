@@ -25,3 +25,6 @@ https://docs.google.com/document/d/1wun7gmfsHBMyd6KycCephakeW2a3zZ1JH7B06IEV2as/
 
 # AWS Free Tier
 https://docs.google.com/document/d/1K3wIB6rYKAGAJKTECohzBnbOd2JbpN8ADzZp9pZX9UY/edit?usp=sharing
+
+# Important Points
+https://docs.google.com/document/d/1P396F_G4j_JsGJmgOdJckVAFvNuMDWuw6xKQzIJXo8M/edit?usp=sharing
