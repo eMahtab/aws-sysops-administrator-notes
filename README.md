@@ -22,3 +22,6 @@ https://docs.google.com/document/d/13coKYDngjxVBc-FGaDtyRElw5XgpcwbUpE5F1NEfOYU/
 
 # Amazon DynamoDB Local Secondary Index
 https://docs.google.com/document/d/1wun7gmfsHBMyd6KycCephakeW2a3zZ1JH7B06IEV2as/edit?usp=sharing
+
+# AWS Free Tier
+https://docs.google.com/document/d/1K3wIB6rYKAGAJKTECohzBnbOd2JbpN8ADzZp9pZX9UY/edit?usp=sharing
