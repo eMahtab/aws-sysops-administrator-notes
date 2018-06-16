@@ -28,3 +28,6 @@ https://docs.google.com/document/d/1K3wIB6rYKAGAJKTECohzBnbOd2JbpN8ADzZp9pZX9UY/
 
 # Important Points
 https://docs.google.com/document/d/1P396F_G4j_JsGJmgOdJckVAFvNuMDWuw6xKQzIJXo8M/edit?usp=sharing
+
+# S3 - Encryption
+https://docs.google.com/document/d/1T6W966cCl4GIhHx02CIn161PlM-05dE73Eg645_aigA/edit?usp=sharing
