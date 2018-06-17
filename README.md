@@ -31,3 +31,6 @@ https://docs.google.com/document/d/1P396F_G4j_JsGJmgOdJckVAFvNuMDWuw6xKQzIJXo8M/
 
 # S3 - Encryption
 https://docs.google.com/document/d/1T6W966cCl4GIhHx02CIn161PlM-05dE73Eg645_aigA/edit?usp=sharing
+
+# AWS Key Management Service (KMS)
+https://docs.google.com/document/d/1bonO0fae7Zy1IWbqale3d2pSAFyZCNblBT1v_9eJDZM/edit?usp=sharing
