@@ -34,3 +34,6 @@ https://docs.google.com/document/d/1T6W966cCl4GIhHx02CIn161PlM-05dE73Eg645_aigA/
 
 # AWS Key Management Service (KMS)
 https://docs.google.com/document/d/1bonO0fae7Zy1IWbqale3d2pSAFyZCNblBT1v_9eJDZM/edit?usp=sharing
+
+# Importing Data into PostgreSQL on Amazon RDS
+https://docs.google.com/document/d/1dXSON23qUkWfHSY9RcKIcvvtIxuLylE9l_N8eccnzAg/edit?usp=sharing
