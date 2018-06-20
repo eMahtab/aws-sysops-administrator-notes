@@ -43,3 +43,6 @@ https://docs.google.com/document/d/1WZNDsl2OxzngmG-q_bJZfpm_Vq8ur31hzRElvMC0rTs/
 
 # Restoring RDS Database From Snapshot
 https://docs.google.com/document/d/1ks5A80LqD_eKvExAHZGg70HOkybAQTPwlRWrOWOcqjY/edit?usp=sharing
+
+# Sharing a DB Snapshot or DB Cluster Snapshot
+https://docs.google.com/document/d/1kV8zp3TQ8EppHU8RiNej2H4yzoFMBgOUM3CrYLsq0k0/edit?usp=sharing
