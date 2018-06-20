@@ -37,3 +37,6 @@ https://docs.google.com/document/d/1bonO0fae7Zy1IWbqale3d2pSAFyZCNblBT1v_9eJDZM/
 
 # Importing Data into PostgreSQL on Amazon RDS
 https://docs.google.com/document/d/1dXSON23qUkWfHSY9RcKIcvvtIxuLylE9l_N8eccnzAg/edit?usp=sharing
+
+# Restoring RDS Database From Snapshot
+https://docs.google.com/document/d/1ks5A80LqD_eKvExAHZGg70HOkybAQTPwlRWrOWOcqjY/edit?usp=sharing
