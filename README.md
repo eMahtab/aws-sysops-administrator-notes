@@ -49,3 +49,6 @@ https://docs.google.com/document/d/1kV8zp3TQ8EppHU8RiNej2H4yzoFMBgOUM3CrYLsq0k0/
 
 # Creating a DB Snapshot
 https://docs.google.com/document/d/1Z3Et1Q2h34dC4tjcXKqFEbaYK-iVBfbICW9hxyl_8jI/edit?usp=sharing
+
+# Encrypting an Amazon RDS Snapshot
+https://docs.google.com/document/d/1Vd-UGP-CoyYiMZtX9iPZ_GC8xoCymRdHudk9Q9DjX94/edit?usp=sharing
