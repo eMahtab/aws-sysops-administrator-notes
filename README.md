@@ -46,3 +46,6 @@ https://docs.google.com/document/d/1ks5A80LqD_eKvExAHZGg70HOkybAQTPwlRWrOWOcqjY/
 
 # Sharing a DB Snapshot or DB Cluster Snapshot
 https://docs.google.com/document/d/1kV8zp3TQ8EppHU8RiNej2H4yzoFMBgOUM3CrYLsq0k0/edit?usp=sharing
+
+# Creating a DB Snapshot
+https://docs.google.com/document/d/1Z3Et1Q2h34dC4tjcXKqFEbaYK-iVBfbICW9hxyl_8jI/edit?usp=sharing
