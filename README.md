@@ -61,3 +61,6 @@ https://docs.google.com/document/d/1Vd-UGP-CoyYiMZtX9iPZ_GC8xoCymRdHudk9Q9DjX94/
 
 # RDS Migrate Snapshot to Aurora DB Cluster
 https://docs.google.com/document/d/1UKNsUVh_H7M5r-wAHER-Ouyg3JEAtpubHAgtZyip_Ko/edit?usp=sharing
+
+# Enabling HTTPS on ELB using Self Signed Certificates
+https://docs.google.com/document/d/1CqNh8lbKN7sqqRDCYTMugPpJsRY2biqAy2Ko10uybpg/edit?usp=sharing
