@@ -64,3 +64,6 @@ https://docs.google.com/document/d/1UKNsUVh_H7M5r-wAHER-Ouyg3JEAtpubHAgtZyip_Ko/
 
 # Enabling HTTPS on ELB using Self Signed Certificates
 https://docs.google.com/document/d/1CqNh8lbKN7sqqRDCYTMugPpJsRY2biqAy2Ko10uybpg/edit?usp=sharing
+
+# Creating and Promoting Read Replica
+https://docs.google.com/document/d/1QbYkcQunvxZ8GAeph78rKKJSJHbQrBjw28DwID9a7Hw/edit?usp=sharing
