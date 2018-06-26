@@ -67,3 +67,6 @@ https://docs.google.com/document/d/1CqNh8lbKN7sqqRDCYTMugPpJsRY2biqAy2Ko10uybpg/
 
 # Creating and Promoting Read Replica
 https://docs.google.com/document/d/1QbYkcQunvxZ8GAeph78rKKJSJHbQrBjw28DwID9a7Hw/edit?usp=sharing
+
+# ElastiCache - Which metrics should I Monitor?
+https://docs.google.com/document/d/13IeyFTmZsD5-RYfezeqDIRcIDkm_0-PgXQX6FOrlfe8/edit?usp=sharing
