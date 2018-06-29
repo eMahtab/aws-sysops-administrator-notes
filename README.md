@@ -70,3 +70,6 @@ https://docs.google.com/document/d/1QbYkcQunvxZ8GAeph78rKKJSJHbQrBjw28DwID9a7Hw/
 
 # ElastiCache - Which metrics should I Monitor?
 https://docs.google.com/document/d/13IeyFTmZsD5-RYfezeqDIRcIDkm_0-PgXQX6FOrlfe8/edit?usp=sharing
+
+# S3 Bucket Policy - Restricting Access
+https://docs.google.com/document/d/1cH6gifh10NcoMLYK5OFszytx-4BxY01HeqG4-GN7hY8/edit?usp=sharing
