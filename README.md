@@ -76,3 +76,6 @@ https://docs.google.com/document/d/1cH6gifh10NcoMLYK5OFszytx-4BxY01HeqG4-GN7hY8/
 
 # ELB Connection Draining
 https://docs.google.com/document/d/1WcQ2QkRevS9NsSDns8ceAoYjQq0WxnlPUF_z73cLdPQ/edit?usp=sharing
+
+# Register / Deregister Instances from ELB
+https://docs.google.com/document/d/1kUYEn1tl_bR6IxFG8mW7DqPIXi75lQJvb32e0pYjlSM/edit?usp=sharing
