@@ -79,3 +79,6 @@ https://docs.google.com/document/d/1WcQ2QkRevS9NsSDns8ceAoYjQq0WxnlPUF_z73cLdPQ/
 
 # Register / Deregister Instances from ELB
 https://docs.google.com/document/d/1kUYEn1tl_bR6IxFG8mW7DqPIXi75lQJvb32e0pYjlSM/edit?usp=sharing
+
+# Add / Remove Availability Zones / Subnets from ELB
+https://docs.google.com/document/d/1MrKRVmTGgAi9f0-fOuSAUS_ezvUsLXO1Fo5Vvj2QpOg/edit?usp=sharing
