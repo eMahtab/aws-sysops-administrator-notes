@@ -91,3 +91,6 @@ https://docs.google.com/document/d/1cgNkaaIH94Lb_2ui15VSRTNMAWCIPVkvQYniqCAPs9g/
 
 # ELB Response Code Metrics
 https://docs.google.com/document/d/1IFpf4z83SsQH2GEitbEi92-od7w8vtpsGnebNKyIcGY/edit?usp=sharing
+
+# ELB Sticky Session
+https://docs.google.com/document/d/1O_Ksfsl2xXbm9-gQaTo3eYCRILftRBXSssshAVu7rGE/edit?usp=sharing
