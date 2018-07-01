@@ -88,3 +88,6 @@ https://docs.google.com/document/d/1XlJepHWk-IdAR7hYFOF-P5EaD_SU1JpLdBf-uZ2DgO4/
 
 # ELB HTTP Errors
 https://docs.google.com/document/d/1cgNkaaIH94Lb_2ui15VSRTNMAWCIPVkvQYniqCAPs9g/edit?usp=sharing
+
+# ELB Response Code Metrics
+https://docs.google.com/document/d/1IFpf4z83SsQH2GEitbEi92-od7w8vtpsGnebNKyIcGY/edit?usp=sharing
