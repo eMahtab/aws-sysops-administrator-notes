@@ -82,3 +82,6 @@ https://docs.google.com/document/d/1kUYEn1tl_bR6IxFG8mW7DqPIXi75lQJvb32e0pYjlSM/
 
 # Add / Remove Availability Zones / Subnets from ELB
 https://docs.google.com/document/d/1MrKRVmTGgAi9f0-fOuSAUS_ezvUsLXO1Fo5Vvj2QpOg/edit?usp=sharing
+
+# ELB idle Timeout
+https://docs.google.com/document/d/1XlJepHWk-IdAR7hYFOF-P5EaD_SU1JpLdBf-uZ2DgO4/edit?usp=sharing
