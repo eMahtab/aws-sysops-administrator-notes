@@ -95,5 +95,5 @@ https://docs.google.com/document/d/1IFpf4z83SsQH2GEitbEi92-od7w8vtpsGnebNKyIcGY/
 # ELB Sticky Session
 https://docs.google.com/document/d/1O_Ksfsl2xXbm9-gQaTo3eYCRILftRBXSssshAVu7rGE/edit?usp=sharing
 
-# AWS Cloudwatch namespaces
+# AWS Cloudwatch Namespaces
 https://docs.google.com/document/d/1eR2iB2cCDV3UCjIYnLvAKtwwa7TlxOJn3vLupUsUyEw/edit?usp=sharing
