@@ -97,3 +97,6 @@ https://docs.google.com/document/d/1O_Ksfsl2xXbm9-gQaTo3eYCRILftRBXSssshAVu7rGE/
 
 # AWS Cloudwatch Namespaces
 https://docs.google.com/document/d/1eR2iB2cCDV3UCjIYnLvAKtwwa7TlxOJn3vLupUsUyEw/edit?usp=sharing
+
+# Pushing EC2 Custom Metrics to CloudWatch
+https://docs.google.com/document/d/127TUayKraGLXleOzxZeEMU04sAObxe46PN8lQHQlD1A/edit?usp=sharing
