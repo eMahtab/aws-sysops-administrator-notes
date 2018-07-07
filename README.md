@@ -100,3 +100,6 @@ https://docs.google.com/document/d/1eR2iB2cCDV3UCjIYnLvAKtwwa7TlxOJn3vLupUsUyEw/
 
 # Pushing EC2 Custom Metrics to CloudWatch
 https://docs.google.com/document/d/127TUayKraGLXleOzxZeEMU04sAObxe46PN8lQHQlD1A/edit?usp=sharing
+
+# CloudWatch Events
+https://docs.google.com/document/d/1GGtUTRxIHJHgAI43nyoqkU-kB9m_7R2an_mrC6qN3y4/edit?usp=sharing
