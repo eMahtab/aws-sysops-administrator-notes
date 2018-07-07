@@ -103,3 +103,6 @@ https://docs.google.com/document/d/127TUayKraGLXleOzxZeEMU04sAObxe46PN8lQHQlD1A/
 
 # CloudWatch Events
 https://docs.google.com/document/d/1GGtUTRxIHJHgAI43nyoqkU-kB9m_7R2an_mrC6qN3y4/edit?usp=sharing
+
+# EBS Volume Metrics
+https://docs.google.com/document/d/1aYDx8W_RjAzlwkGI9HNWPIIvI0d888_HjItRDIFCTzw/edit?usp=sharing
