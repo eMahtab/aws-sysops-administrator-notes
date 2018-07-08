@@ -106,3 +106,6 @@ https://docs.google.com/document/d/1GGtUTRxIHJHgAI43nyoqkU-kB9m_7R2an_mrC6qN3y4/
 
 # EBS Volume Metrics
 https://docs.google.com/document/d/1aYDx8W_RjAzlwkGI9HNWPIIvI0d888_HjItRDIFCTzw/edit?usp=sharing
+
+# AWS Systems Manager(SSM) - Run Command
+https://docs.google.com/document/d/1YXG199-b_gpUi6iR2KSmv3YwidXKaTtdkjVehSjGRKY/edit?usp=sharing
