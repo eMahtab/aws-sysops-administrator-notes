@@ -109,3 +109,6 @@ https://docs.google.com/document/d/1aYDx8W_RjAzlwkGI9HNWPIIvI0d888_HjItRDIFCTzw/
 
 # AWS Systems Manager(SSM) - Run Command
 https://docs.google.com/document/d/1YXG199-b_gpUi6iR2KSmv3YwidXKaTtdkjVehSjGRKY/edit?usp=sharing
+
+# Instance Address on Stopping/Starting/Rebooting the Instance
+https://docs.google.com/document/d/1YcHp-QnXefjmsKOnFaYQcNPS7qcjo6stxpMTc2ajYLs/edit?usp=sharing
