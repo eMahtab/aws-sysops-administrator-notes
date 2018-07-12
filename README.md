@@ -112,3 +112,6 @@ https://docs.google.com/document/d/1YXG199-b_gpUi6iR2KSmv3YwidXKaTtdkjVehSjGRKY/
 
 # Instance Address on Stopping/Starting/Rebooting the Instance
 https://docs.google.com/document/d/1YcHp-QnXefjmsKOnFaYQcNPS7qcjo6stxpMTc2ajYLs/edit?usp=sharing
+
+# AutoScaling Group Parameters - Cooldown and GracePeriod
+https://docs.google.com/document/d/1ZndNbWE5S4_p06BOzGNFmZV7Kz8cEK0lCohMzNfM-2o/edit?usp=sharing
