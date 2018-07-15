@@ -115,3 +115,6 @@ https://docs.google.com/document/d/1YcHp-QnXefjmsKOnFaYQcNPS7qcjo6stxpMTc2ajYLs/
 
 # AutoScaling Group Parameters - Cooldown and GracePeriod
 https://docs.google.com/document/d/1ZndNbWE5S4_p06BOzGNFmZV7Kz8cEK0lCohMzNfM-2o/edit?usp=sharing
+
+# Launching an Instance Store Backed Instance
+https://docs.google.com/document/d/17KhjXyi8akDNft6-yQpegcM6y-X_Xd0uNDhk5Zeodnk/edit?usp=sharing
