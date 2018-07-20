@@ -118,3 +118,6 @@ https://docs.google.com/document/d/1ZndNbWE5S4_p06BOzGNFmZV7Kz8cEK0lCohMzNfM-2o/
 
 # Launching an Instance Store Backed Instance
 https://docs.google.com/document/d/17KhjXyi8akDNft6-yQpegcM6y-X_Xd0uNDhk5Zeodnk/edit?usp=sharing
+
+# Launching a Spot Instance
+https://docs.google.com/document/d/15Uv2FfEfQucnI7TyRUFYEYJrGhIjkWhM1riQi7lI7MM/edit?usp=sharing
