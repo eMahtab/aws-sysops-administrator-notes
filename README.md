@@ -127,3 +127,6 @@ https://docs.google.com/document/d/14MhwAhHlxYQmfDfstYA2VtjEJBE_FWciiEVCNFu8DII/
 
 # EBS Volume Resizing
 https://docs.google.com/document/d/1LvdqSUwkSYNyx_vLfkDhuOAcc9syWWY2t40ax4sMQ1w/edit?usp=sharing
+
+# VPC Peering Demo
+https://docs.google.com/document/d/1Wk7G0vJyoVIAhxT2sakvl-CCN2J3XveIzieN1GQN4qA/edit?usp=sharing
