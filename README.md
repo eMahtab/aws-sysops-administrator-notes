@@ -130,3 +130,6 @@ https://docs.google.com/document/d/1LvdqSUwkSYNyx_vLfkDhuOAcc9syWWY2t40ax4sMQ1w/
 
 # VPC Peering Demo
 https://docs.google.com/document/d/1Wk7G0vJyoVIAhxT2sakvl-CCN2J3XveIzieN1GQN4qA/edit?usp=sharing
+
+# Extending VPC with Secondary CIDRs
+https://docs.google.com/document/d/1hRKwTm4hC0yA33Q7XiglwGH6LiFX6aqStNUVD9qSZ44/edit?usp=sharing
