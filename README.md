@@ -121,3 +121,6 @@ https://docs.google.com/document/d/17KhjXyi8akDNft6-yQpegcM6y-X_Xd0uNDhk5Zeodnk/
 
 # Launching a Spot Instance
 https://docs.google.com/document/d/15Uv2FfEfQucnI7TyRUFYEYJrGhIjkWhM1riQi7lI7MM/edit?usp=sharing
+
+# Creating a CloudFront Distribution
+https://docs.google.com/document/d/14MhwAhHlxYQmfDfstYA2VtjEJBE_FWciiEVCNFu8DII/edit?usp=sharing
