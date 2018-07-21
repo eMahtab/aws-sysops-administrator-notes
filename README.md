@@ -124,3 +124,6 @@ https://docs.google.com/document/d/15Uv2FfEfQucnI7TyRUFYEYJrGhIjkWhM1riQi7lI7MM/
 
 # Creating a CloudFront Distribution
 https://docs.google.com/document/d/14MhwAhHlxYQmfDfstYA2VtjEJBE_FWciiEVCNFu8DII/edit?usp=sharing
+
+# EBS Volume Resizing
+https://docs.google.com/document/d/1LvdqSUwkSYNyx_vLfkDhuOAcc9syWWY2t40ax4sMQ1w/edit?usp=sharing
