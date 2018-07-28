@@ -136,3 +136,6 @@ https://docs.google.com/document/d/1hRKwTm4hC0yA33Q7XiglwGH6LiFX6aqStNUVD9qSZ44/
 
 # SSH Agent Key Forwarding
 https://docs.google.com/document/d/1pxr6JBlIalAaNEB7VAEYiJ1uBX7XKvuxqSD1ZfQxWPE/edit?usp=sharing
+
+# VPC Interface Endpoint (AWS PrivateLink)
+https://docs.google.com/document/d/1fDccPmztbCQXMDbtnyapDAmVZ3vV7m9Kj3cf-W3Szdc/edit?usp=sharing
