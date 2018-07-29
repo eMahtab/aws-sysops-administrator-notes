@@ -139,3 +139,6 @@ https://docs.google.com/document/d/1pxr6JBlIalAaNEB7VAEYiJ1uBX7XKvuxqSD1ZfQxWPE/
 
 # VPC Interface Endpoint (AWS PrivateLink)
 https://docs.google.com/document/d/1fDccPmztbCQXMDbtnyapDAmVZ3vV7m9Kj3cf-W3Szdc/edit?usp=sharing
+
+# Network Interface Demo
+https://docs.google.com/document/d/1nlln2u1JRlkUw1zV0mVn2lz_KKZBB_pJOozxC7oQaOc/edit?usp=sharing
