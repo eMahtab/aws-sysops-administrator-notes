@@ -142,3 +142,6 @@ https://docs.google.com/document/d/1fDccPmztbCQXMDbtnyapDAmVZ3vV7m9Kj3cf-W3Szdc/
 
 # Network Interface Demo
 https://docs.google.com/document/d/1nlln2u1JRlkUw1zV0mVn2lz_KKZBB_pJOozxC7oQaOc/edit?usp=sharing
+
+# Application Load Balancer Path Based Routing
+https://docs.google.com/document/d/12ElJmx0WUwNzuNYpLRxh0zsLjV1h0Bc7m924BOaIDYk/edit?usp=sharing
