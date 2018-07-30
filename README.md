@@ -145,3 +145,6 @@ https://docs.google.com/document/d/1nlln2u1JRlkUw1zV0mVn2lz_KKZBB_pJOozxC7oQaOc/
 
 # Application Load Balancer Path Based Routing
 https://docs.google.com/document/d/12ElJmx0WUwNzuNYpLRxh0zsLjV1h0Bc7m924BOaIDYk/edit?usp=sharing
+
+# S3 Bucket Policy - Restricting Access to Specific Ip Addresses
+https://docs.google.com/document/d/1eNTztG8R3MqJLJBEcHnGRVfvNJk0dYDUxEHajECqX6E/edit?usp=sharing
