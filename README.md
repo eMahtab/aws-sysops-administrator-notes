@@ -151,3 +151,6 @@ https://docs.google.com/document/d/1eNTztG8R3MqJLJBEcHnGRVfvNJk0dYDUxEHajECqX6E/
 
 # Creating an AMI from an Instance Store Backed Instance
 https://docs.google.com/document/d/1lzevj7CuoVI5bH7cvdwU2S7enBa2dGzwWvNKTQKD8Ns/edit?usp=sharing
+
+# Amazon EBS-Optimized Instances
+https://docs.google.com/document/d/1guGU6_plKndpW-aNWNMKHK33poXbdYGwdwjoFh3yevM/edit?usp=sharing
