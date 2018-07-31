@@ -148,3 +148,6 @@ https://docs.google.com/document/d/12ElJmx0WUwNzuNYpLRxh0zsLjV1h0Bc7m924BOaIDYk/
 
 # S3 Bucket Policy - Restricting Access to Specific Ip Addresses
 https://docs.google.com/document/d/1eNTztG8R3MqJLJBEcHnGRVfvNJk0dYDUxEHajECqX6E/edit?usp=sharing
+
+# Creating an AMI from an Instance Store Backed Instance
+https://docs.google.com/document/d/1lzevj7CuoVI5bH7cvdwU2S7enBa2dGzwWvNKTQKD8Ns/edit?usp=sharing
