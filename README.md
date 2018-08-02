@@ -154,3 +154,6 @@ https://docs.google.com/document/d/1lzevj7CuoVI5bH7cvdwU2S7enBa2dGzwWvNKTQKD8Ns/
 
 # Amazon EBS-Optimized Instances
 https://docs.google.com/document/d/1guGU6_plKndpW-aNWNMKHK33poXbdYGwdwjoFh3yevM/edit?usp=sharing
+
+# OpsWorks - Adding RDS Service Layer
+https://docs.google.com/document/d/15PLBtSb784aRuHfEFE5IBGGe3Codh8bDMJWQTVd7A5k/edit?usp=sharing
