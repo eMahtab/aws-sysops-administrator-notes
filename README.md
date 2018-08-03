@@ -157,3 +157,6 @@ https://docs.google.com/document/d/1guGU6_plKndpW-aNWNMKHK33poXbdYGwdwjoFh3yevM/
 
 # OpsWorks - Adding RDS Service Layer
 https://docs.google.com/document/d/15PLBtSb784aRuHfEFE5IBGGe3Codh8bDMJWQTVd7A5k/edit?usp=sharing
+
+# Initializing an EBS Volume (pre-warming)
+https://docs.google.com/document/d/1bFvomMMLcC9KbSScKDiInH8PJi4m3qq2k73kwr1c3ho/edit?usp=sharing
