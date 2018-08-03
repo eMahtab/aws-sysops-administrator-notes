@@ -160,3 +160,6 @@ https://docs.google.com/document/d/15PLBtSb784aRuHfEFE5IBGGe3Codh8bDMJWQTVd7A5k/
 
 # Initializing an EBS Volume (pre-warming)
 https://docs.google.com/document/d/1bFvomMMLcC9KbSScKDiInH8PJi4m3qq2k73kwr1c3ho/edit?usp=sharing
+
+# Amazon S3 Data Consistency Model
+https://docs.google.com/document/d/1VHXRGp1KXL3jPSoCN8aQ2Jv9dHeSbxrO3o6cODyHr7c/edit?usp=sharing
