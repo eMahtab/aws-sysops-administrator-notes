@@ -178,3 +178,6 @@ https://docs.google.com/document/d/1rrLOizKbKaFeRclpvutAT2pejDFcWGJFdgLVMB41QGM/
 
 # Specifying Conditions in S3 Policies
 https://docs.google.com/document/d/1ASY5S3nALAJIgiUStT-CM11O1-jDGGA3-YUhHER5OZg/edit?usp=sharing
+
+# Add or Remove Availability Zones for Your Load Balancer in EC2-Classic
+https://docs.google.com/document/d/1XD27JaNHscsFNXAmj3NtXS1ShxXrmXYSBmypjEBwToM/edit?usp=sharing
