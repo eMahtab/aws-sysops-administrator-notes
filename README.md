@@ -163,3 +163,6 @@ https://docs.google.com/document/d/1bFvomMMLcC9KbSScKDiInH8PJi4m3qq2k73kwr1c3ho/
 
 # Amazon S3 Data Consistency Model
 https://docs.google.com/document/d/1VHXRGp1KXL3jPSoCN8aQ2Jv9dHeSbxrO3o6cODyHr7c/edit?usp=sharing
+
+# AutoScaling Lifecycle
+https://docs.google.com/document/d/1gk72rdvDo6fJ5efbIZ7ZnAIPCaNNEsXPr0_kF_q_hG8/edit?usp=sharing
