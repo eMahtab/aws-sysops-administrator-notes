@@ -175,3 +175,6 @@ https://docs.google.com/document/d/1BPNEEEtFIwVt-AUnUvfrcPb5ykmzJ2Gt_w2AIB8kfvY/
 
 # CloudFormation Condition Intrinsic Functions
 https://docs.google.com/document/d/1rrLOizKbKaFeRclpvutAT2pejDFcWGJFdgLVMB41QGM/edit?usp=sharing
+
+# Specifying Conditions in S3 Policies
+https://docs.google.com/document/d/1ASY5S3nALAJIgiUStT-CM11O1-jDGGA3-YUhHER5OZg/edit?usp=sharing
