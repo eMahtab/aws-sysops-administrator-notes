@@ -190,3 +190,6 @@ https://docs.google.com/document/d/1zvhuGmvqtFI7rXH8rmOMP8mzJ0nKKn6KddGJHGx9aTQ/
 
 # Classic Load Balancer X-Forwarded Headers
 https://docs.google.com/document/d/1Y1PXo2qk65--dT5t5Y3fog1Y-YLdBdPWTjRw95W_ESc/edit?usp=sharing
+
+# Troubleshooting Amazon EC2 Auto Scaling: EC2 Instance Launch Failures
+https://docs.google.com/document/d/1taZvP38zxjuX9q79rMA61WENt8uy7eWSwkO-gU8qJDE/edit?usp=sharing
