@@ -166,3 +166,6 @@ https://docs.google.com/document/d/1VHXRGp1KXL3jPSoCN8aQ2Jv9dHeSbxrO3o6cODyHr7c/
 
 # AutoScaling Lifecycle
 https://docs.google.com/document/d/1gk72rdvDo6fJ5efbIZ7ZnAIPCaNNEsXPr0_kF_q_hG8/edit?usp=sharing
+
+# Attaching/Detaching EC2 Instances to/from AutoScaling Group
+https://docs.google.com/document/d/1UfPZyE6yi7rQ87VXvw88wsFanpg1jNY8lL0SWCz_0tU/edit?usp=sharing
