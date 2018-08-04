@@ -187,3 +187,6 @@ https://docs.google.com/document/d/1rKNZS0hgSrlhsN7fWMh-vb-icn5TyfVHvskL6TupzP8/
 
 # IAM Limits
 https://docs.google.com/document/d/1zvhuGmvqtFI7rXH8rmOMP8mzJ0nKKn6KddGJHGx9aTQ/edit?usp=sharing
+
+# Classic Load Balancer X-Forwarded Headers
+https://docs.google.com/document/d/1Y1PXo2qk65--dT5t5Y3fog1Y-YLdBdPWTjRw95W_ESc/edit?usp=sharing
