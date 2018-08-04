@@ -172,3 +172,6 @@ https://docs.google.com/document/d/1UfPZyE6yi7rQ87VXvw88wsFanpg1jNY8lL0SWCz_0tU/
 
 # Suspending and Resuming Scaling Processes
 https://docs.google.com/document/d/1BPNEEEtFIwVt-AUnUvfrcPb5ykmzJ2Gt_w2AIB8kfvY/edit?usp=sharing
+
+# CloudFormation Condition Intrinsic Functions
+https://docs.google.com/document/d/1rrLOizKbKaFeRclpvutAT2pejDFcWGJFdgLVMB41QGM/edit?usp=sharing
