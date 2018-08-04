@@ -184,3 +184,6 @@ https://docs.google.com/document/d/1XD27JaNHscsFNXAmj3NtXS1ShxXrmXYSBmypjEBwToM/
 
 # Add or Remove Subnets for Your Classic Load Balancer in a VPC
 https://docs.google.com/document/d/1rKNZS0hgSrlhsN7fWMh-vb-icn5TyfVHvskL6TupzP8/edit?usp=sharing
+
+# IAM Limits
+https://docs.google.com/document/d/1zvhuGmvqtFI7rXH8rmOMP8mzJ0nKKn6KddGJHGx9aTQ/edit?usp=sharing
