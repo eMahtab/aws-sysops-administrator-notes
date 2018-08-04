@@ -169,3 +169,6 @@ https://docs.google.com/document/d/1gk72rdvDo6fJ5efbIZ7ZnAIPCaNNEsXPr0_kF_q_hG8/
 
 # Attaching/Detaching EC2 Instances to/from AutoScaling Group
 https://docs.google.com/document/d/1UfPZyE6yi7rQ87VXvw88wsFanpg1jNY8lL0SWCz_0tU/edit?usp=sharing
+
+# Suspending and Resuming Scaling Processes
+https://docs.google.com/document/d/1BPNEEEtFIwVt-AUnUvfrcPb5ykmzJ2Gt_w2AIB8kfvY/edit?usp=sharing
