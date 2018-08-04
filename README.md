@@ -181,3 +181,6 @@ https://docs.google.com/document/d/1ASY5S3nALAJIgiUStT-CM11O1-jDGGA3-YUhHER5OZg/
 
 # Add or Remove Availability Zones for Your Load Balancer in EC2-Classic
 https://docs.google.com/document/d/1XD27JaNHscsFNXAmj3NtXS1ShxXrmXYSBmypjEBwToM/edit?usp=sharing
+
+# Add or Remove Subnets for Your Classic Load Balancer in a VPC
+https://docs.google.com/document/d/1rKNZS0hgSrlhsN7fWMh-vb-icn5TyfVHvskL6TupzP8/edit?usp=sharing
