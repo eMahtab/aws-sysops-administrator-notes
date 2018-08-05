@@ -196,3 +196,6 @@ https://docs.google.com/document/d/1taZvP38zxjuX9q79rMA61WENt8uy7eWSwkO-gU8qJDE/
 
 # ENI Usage
 https://docs.google.com/document/d/1S4TQcVlYJCmmv3THrEiSrCBfUoMsJkzLICK4FuSB6qU/edit?usp=sharing
+
+# VPC & EC2 Instance Tenancy
+https://docs.google.com/document/d/1hyq76dmBpqhEZcJpTJjk_wBB1-BONMP8CuLfaDHK8Sk/edit?usp=sharing
