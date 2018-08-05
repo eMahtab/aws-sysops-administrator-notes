@@ -203,5 +203,5 @@ https://docs.google.com/document/d/1hyq76dmBpqhEZcJpTJjk_wBB1-BONMP8CuLfaDHK8Sk/
 # EC2 Full Access Policy
 https://docs.google.com/document/d/11XSgE64SRyu4_L2mFSeU08YGiF0Y8iKG1j3PB-mMnOo/edit?usp=sharing
 
-# EC2 Instance - Changing Shutdown Behavior
+# EC2 Instance - Shutdown Behavior & Termination Protection
 https://docs.google.com/document/d/1ltNWpTfEGM5J7ppqedF1_5idNWLP8I9qDhOdHjRwcMA/edit?usp=sharing
