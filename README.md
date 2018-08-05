@@ -205,3 +205,6 @@ https://docs.google.com/document/d/11XSgE64SRyu4_L2mFSeU08YGiF0Y8iKG1j3PB-mMnOo/
 
 # EC2 Instance - Shutdown Behavior & Termination Protection
 https://docs.google.com/document/d/1ltNWpTfEGM5J7ppqedF1_5idNWLP8I9qDhOdHjRwcMA/edit?usp=sharing
+
+# Modifying DeleteOnTermination EBS Volume attribute after Launching Instance
+https://docs.google.com/document/d/1oViTMjfC1OhlLpJsty86m0BxoYH8c6eYpGaK4zG7G9k/edit?usp=sharing
