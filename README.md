@@ -199,3 +199,6 @@ https://docs.google.com/document/d/1S4TQcVlYJCmmv3THrEiSrCBfUoMsJkzLICK4FuSB6qU/
 
 # VPC & EC2 Instance Tenancy
 https://docs.google.com/document/d/1hyq76dmBpqhEZcJpTJjk_wBB1-BONMP8CuLfaDHK8Sk/edit?usp=sharing
+
+# EC2 Full Access Policy
+https://docs.google.com/document/d/11XSgE64SRyu4_L2mFSeU08YGiF0Y8iKG1j3PB-mMnOo/edit?usp=sharing
