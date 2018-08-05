@@ -193,3 +193,6 @@ https://docs.google.com/document/d/1Y1PXo2qk65--dT5t5Y3fog1Y-YLdBdPWTjRw95W_ESc/
 
 # Troubleshooting Amazon EC2 Auto Scaling: EC2 Instance Launch Failures
 https://docs.google.com/document/d/1taZvP38zxjuX9q79rMA61WENt8uy7eWSwkO-gU8qJDE/edit?usp=sharing
+
+# ENI Usage
+https://docs.google.com/document/d/1S4TQcVlYJCmmv3THrEiSrCBfUoMsJkzLICK4FuSB6qU/edit?usp=sharing
