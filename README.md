@@ -208,3 +208,6 @@ https://docs.google.com/document/d/1ltNWpTfEGM5J7ppqedF1_5idNWLP8I9qDhOdHjRwcMA/
 
 # Modifying DeleteOnTermination EBS Volume attribute after Launching Instance
 https://docs.google.com/document/d/1oViTMjfC1OhlLpJsty86m0BxoYH8c6eYpGaK4zG7G9k/edit?usp=sharing
+
+# Troubleshooting Instance Launch Issues
+https://docs.google.com/document/d/1YRNbm1y6kioBX9eAUsJp0j-OOlU3pQh6SoDrdEcKGaQ/edit?usp=sharing
