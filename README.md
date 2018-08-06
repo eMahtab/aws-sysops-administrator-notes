@@ -211,3 +211,6 @@ https://docs.google.com/document/d/1oViTMjfC1OhlLpJsty86m0BxoYH8c6eYpGaK4zG7G9k/
 
 # Troubleshooting Instance Launch Issues
 https://docs.google.com/document/d/1YRNbm1y6kioBX9eAUsJp0j-OOlU3pQh6SoDrdEcKGaQ/edit?usp=sharing
+
+# EC2 State Transition Reason
+https://docs.google.com/document/d/1za0tNjuzswkEAvNWtbX1HSLzoM8lC0RjrmY2c4Oj-8s/edit?usp=sharing
