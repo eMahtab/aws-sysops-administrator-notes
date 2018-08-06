@@ -220,3 +220,6 @@ https://docs.google.com/document/d/1HtFcwuD4--xjZvEUHM3kcaokLYr703rqxB6YhZDez0E/
 
 # RDS Event Subscription & Temporarily Disabling
 https://docs.google.com/document/d/1mMQ0AGfmXSeuh6an8xHSsdZKEfrbO2UJaBeq7eNI_IE/edit?usp=sharing
+
+# VPC Scenarios
+https://docs.google.com/document/d/1Wk6wK2zkA_6ZwNyNyRKl7T7fTmeioLhZwZVSA7y7Gig/edit?usp=sharing
