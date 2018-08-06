@@ -217,3 +217,6 @@ https://docs.google.com/document/d/1za0tNjuzswkEAvNWtbX1HSLzoM8lC0RjrmY2c4Oj-8s/
 
 # S3 ACL
 https://docs.google.com/document/d/1HtFcwuD4--xjZvEUHM3kcaokLYr703rqxB6YhZDez0E/edit?usp=sharing
+
+# RDS Event Subscription & Temporarily Disabling
+https://docs.google.com/document/d/1mMQ0AGfmXSeuh6an8xHSsdZKEfrbO2UJaBeq7eNI_IE/edit?usp=sharing
