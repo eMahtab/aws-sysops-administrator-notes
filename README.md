@@ -214,3 +214,6 @@ https://docs.google.com/document/d/1YRNbm1y6kioBX9eAUsJp0j-OOlU3pQh6SoDrdEcKGaQ/
 
 # EC2 State Transition Reason
 https://docs.google.com/document/d/1za0tNjuzswkEAvNWtbX1HSLzoM8lC0RjrmY2c4Oj-8s/edit?usp=sharing
+
+# S3 ACL
+https://docs.google.com/document/d/1HtFcwuD4--xjZvEUHM3kcaokLYr703rqxB6YhZDez0E/edit?usp=sharing
