@@ -223,3 +223,6 @@ https://docs.google.com/document/d/1mMQ0AGfmXSeuh6an8xHSsdZKEfrbO2UJaBeq7eNI_IE/
 
 # VPC Scenarios
 https://docs.google.com/document/d/1Wk6wK2zkA_6ZwNyNyRKl7T7fTmeioLhZwZVSA7y7Gig/edit?usp=sharing
+
+# HealthChecks for AutoScaling Instances
+https://docs.google.com/document/d/1ycLWufJWzCvkEe1IFcaPhMFZCZ01bV268NV5-G1cc1I/edit?usp=sharing
