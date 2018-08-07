@@ -232,3 +232,6 @@ https://docs.google.com/document/d/1Dyb9KQBMRbWJH64EaFJxTYxt5_Ikj64Z6bvjZQLQqkU/
 
 # Recover Your Instance
 https://docs.google.com/document/d/1F30CSYKldnqLFVBElmBZp_NGqbGGSI1apFrWz8aCAsM/edit?usp=sharing
+
+# Creating Status Check Alarm (Auto Recovery)
+https://docs.google.com/document/d/1yt9VE3k4ESUK9b0EIyslhgbFzdelKZFncgA4DrwYsEg/edit?usp=sharing
