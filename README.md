@@ -226,3 +226,6 @@ https://docs.google.com/document/d/1Wk6wK2zkA_6ZwNyNyRKl7T7fTmeioLhZwZVSA7y7Gig/
 
 # HealthChecks for AutoScaling Instances
 https://docs.google.com/document/d/1ycLWufJWzCvkEe1IFcaPhMFZCZ01bV268NV5-G1cc1I/edit?usp=sharing
+
+# Creating SQS Queue
+https://docs.google.com/document/d/1Dyb9KQBMRbWJH64EaFJxTYxt5_Ikj64Z6bvjZQLQqkU/edit?usp=sharing
