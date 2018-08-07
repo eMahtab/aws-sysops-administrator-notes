@@ -229,3 +229,6 @@ https://docs.google.com/document/d/1ycLWufJWzCvkEe1IFcaPhMFZCZ01bV268NV5-G1cc1I/
 
 # Creating SQS Queue
 https://docs.google.com/document/d/1Dyb9KQBMRbWJH64EaFJxTYxt5_Ikj64Z6bvjZQLQqkU/edit?usp=sharing
+
+# Recover Your Instance
+https://docs.google.com/document/d/1F30CSYKldnqLFVBElmBZp_NGqbGGSI1apFrWz8aCAsM/edit?usp=sharing
