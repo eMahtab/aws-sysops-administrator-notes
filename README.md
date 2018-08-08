@@ -235,3 +235,6 @@ https://docs.google.com/document/d/1F30CSYKldnqLFVBElmBZp_NGqbGGSI1apFrWz8aCAsM/
 
 # Creating Status Check Alarm (Auto Recovery)
 https://docs.google.com/document/d/1yt9VE3k4ESUK9b0EIyslhgbFzdelKZFncgA4DrwYsEg/edit?usp=sharing
+
+# Enabling/Disabling ELB Connection Draining
+https://docs.google.com/document/d/1IMJUlB7IfU3XWdne0_fZ1KQku1UuOA6tKlvyOruFGmk/edit?usp=sharing
