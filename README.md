@@ -238,3 +238,6 @@ https://docs.google.com/document/d/1yt9VE3k4ESUK9b0EIyslhgbFzdelKZFncgA4DrwYsEg/
 
 # Enabling/Disabling ELB Connection Draining
 https://docs.google.com/document/d/1IMJUlB7IfU3XWdne0_fZ1KQku1UuOA6tKlvyOruFGmk/edit?usp=sharing
+
+# Enabling/Disabling ELB Cross-Zone Load Balancing
+https://docs.google.com/document/d/1uWfpDipnafPyOczWZX-3biQi8GeCs4F44dmhP235-CY/edit?usp=sharing
