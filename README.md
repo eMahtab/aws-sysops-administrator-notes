@@ -244,3 +244,6 @@ https://docs.google.com/document/d/1uWfpDipnafPyOczWZX-3biQi8GeCs4F44dmhP235-CY/
 
 # Reserved Instances and Consolidated Billing
 https://docs.google.com/document/d/1Tdu_QHxECN0qrJOGheFlVJ_-cay3MILyw2M8GB9npTI/edit?usp=sharing
+
+# Pre-Warming ELB
+https://docs.google.com/document/d/1NcpX8d4e8B2An3ohvEkhdqM4_8umlodP9UYoqr9NQbM/edit?usp=sharing
