@@ -241,3 +241,6 @@ https://docs.google.com/document/d/1IMJUlB7IfU3XWdne0_fZ1KQku1UuOA6tKlvyOruFGmk/
 
 # Enabling/Disabling ELB Cross-Zone Load Balancing
 https://docs.google.com/document/d/1uWfpDipnafPyOczWZX-3biQi8GeCs4F44dmhP235-CY/edit?usp=sharing
+
+# Reserved Instances and Consolidated Billing
+https://docs.google.com/document/d/1Tdu_QHxECN0qrJOGheFlVJ_-cay3MILyw2M8GB9npTI/edit?usp=sharing
